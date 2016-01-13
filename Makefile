@@ -1,2 +1,2 @@
 all:
-	g++ main.cpp Sq.cpp Sq.h -o Fun
+	g++ main.cpp Fun.cpp Fun.h -o Fun

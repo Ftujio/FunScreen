@@ -1,7 +1,7 @@
-#include <iostream>
-#include <cstdio>
-#include <cstdlib>
-#include "Sq.h"
+#include "iostream"
+#include "cstdio"
+#include "cstdlib"
+#include "Fun.h"
 
 using namespace std;
 

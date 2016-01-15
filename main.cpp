@@ -6,7 +6,7 @@
 using namespace std;
 
 int main(){
-	
+	Fun f(89, 54);
 	
 	return 0;
 }
